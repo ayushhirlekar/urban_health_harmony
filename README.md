@@ -1,69 +1,64 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🌆 Urban Health Harmony
 
-**URL**: https://lovable.dev/projects/af09374e-2ec0-4ed3-9ff8-ded9cf30ac06
+**Urban Health Harmony** is a comprehensive web application developed to improve urban well-being through intelligent tools, real-time disease monitoring, mental health support, and community engagement.
 
-## How can I edit this code?
+🌐 **Live Site**: 👉 [https://urbanhealth.netlify.app]
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🧠 What It Does
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/af09374e-2ec0-4ed3-9ff8-ded9cf30ac06) and start prompting.
+Urban Health Harmony combines real-time health insights and community support into a unified digital solution. It empowers citizens to stay informed, mentally healthy, and connected.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Core Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🌍 **Dengue Heatmap**  
+  Displays outbreak-prone areas using geolocation data to help users avoid disease hotspots.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 💬 **AI-Powered Mental Health Chatbot**  
+  A conversational assistant that analyzes tone and sentiment to provide mental health tips, emotional support, and resources.
 
-Follow these steps:
+- 🧘 **Meditation and Breathing Exercises**  
+  Guided meditation sessions and breathing exercises to reduce stress and anxiety.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🌙 **Sleep Aid Section**  
+  Includes calming soundscapes and bedtime stories to enhance sleep quality.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- 📊 **Interactive Dashboard**  
+  Visualizes health-related statistics such as AQI, temperature, humidity, and safe exposure durations based on the user's location.
 
-# Step 3: Install the necessary dependencies.
-npm i
+- 👥 **Community Forum**  
+  A social space where users can share experiences, health concerns, tips, and get support from others.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- 📱 **Responsive Design**  
+  Mobile-first and optimized for desktops, tablets, and smartphones.
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🛠️ Tech Stack
 
-**Use GitHub Codespaces**
+- **Frontend**: React.js, HTML5, CSS3
+- **State Management**: React Hooks
+- **Styling**: SASS, TailwindCSS
+- **Animations**: Framer Motion
+- **Maps & Data**: Leaflet.js, Public Health APIs
+- **Backend/AI**: Gemini API (for chatbot), 
+- **Deployment**: Netlify
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## 📄 License
 
-This project is built with .
+This project is licensed under the MIT License.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🙌 Authors
 
-Simply open [Lovable](https://lovable.dev/projects/af09374e-2ec0-4ed3-9ff8-ded9cf30ac06) and click on Share -> Publish.
+**Dhruv , geetanshu , aryan , ayush**   
+Built with love to support the health and resilience of urban communities ❤️
 
-## I want to use a custom domain - is that possible?
+---
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
